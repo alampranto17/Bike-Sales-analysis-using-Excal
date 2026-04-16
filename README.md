@@ -6,7 +6,7 @@ The **Bike Sales Dashboard** is an interactive Excel project that analyzes custo
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Screenshot 2026-04-17 at 1.29.47 AM.png)
 
 ---
 
