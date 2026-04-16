@@ -8,5 +8,5 @@ This repository contains an Excel-based bike sales analysis project with an inte
 
 ## Files
 
-- `Bike Sales Dashboard and analysis .xlsx` — analysis workbook and dashboard
+- `Bike Sales Dashboard and analysis.xlsx` — analysis workbook and dashboard
 - `dashboard.png` — dashboard screenshot used in this README
