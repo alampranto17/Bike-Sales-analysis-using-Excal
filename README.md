@@ -38,6 +38,4 @@ The **Bike Sales Dashboard** is an interactive Excel project that analyzes custo
 - Pivot Charts  
 - Slicers  
 
----
 
-## 📂 Project Structure
